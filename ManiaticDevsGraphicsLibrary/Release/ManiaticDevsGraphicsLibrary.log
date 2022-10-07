@@ -1,0 +1,23 @@
+﻿  MDGL.cpp
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(796,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(796,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(795,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(795,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(794,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(794,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(799,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(799,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(799,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(799,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(799,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(799,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(873,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(874,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(933,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\ManiaticDevsGraphicsLibrary\MDGL.cpp(934,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  263 of 665 functions (39.5%) were compiled, the rest were copied from previous compilation.
+    248 functions were new in current compilation
+    56 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ManiaticDevsGraphicsLibrary.vcxproj -> C:\Users\Oikmo\source\repos\ManiaticDevsGraphicsLibrary\Release\ManiaticDevsGraphicsLibrary.exe
